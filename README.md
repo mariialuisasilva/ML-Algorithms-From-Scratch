@@ -36,4 +36,14 @@ Implementación de un modelo de neurona simple (Perceptrón) aplicado a problema
 
 1. Clona el repositorio:
    ```bash
-   git clone
+   git clone [https://github.com/mariialuisasilva/ML-Algorithms-From-Scratch.git](https://github.com/mariialuisasilva/ML-Algorithms-From-Scratch.git)
+
+2. Asegúrate de tener instaladas las dependencias:
+   ```bash
+   pip install numpy matplotlib jupyter
+
+3. Abre el archivo .ipynb en tu entorno de Jupyter o VS Code para ver la ejecución.
+
+---
+
+*Proyecto realizado como parte de la asignatura de Aprendizaje Automático - Grado en Ingeniería Informática (Universidad de Huelva).*
