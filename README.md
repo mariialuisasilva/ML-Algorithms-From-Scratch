@@ -6,16 +6,16 @@ Este repositorio contiene implementaciones de algoritmos fundamentales de **Mach
 
 ## Contenido 📁
 
-### 1. El Perceptrón y Regresión Lineal
-Implementación de un modelo de neurona simple (Perceptrón) aplicado a problemas tanto de **regresión** como de **clasificación**.
+### 1. El perceptrón y regresión lineal
+Implementación de un modelo de neurona simple (perceptrón) aplicado a problemas tanto de **regresión** como de **clasificación**.
 
-* **Algoritmos:** Regla Delta, Funciones de activación (Sigmoide, Escalón).
+* **Algoritmos:** Regla Delta, funciones de activación (sigmoide, escalón).
 * **Optimización:** Análisis del Error Cuadrático Medio (ECM) y estudio de la convergencia.
 * **Comparativa:** Validación de resultados obtenidos frente a las implementaciones de referencia en la librería `scikit-learn`.
 
 ---
 
-## Estructura del Proyecto 🛠️
+## Estructura del proyecto 🛠️
 
 * `perceptronRegresion.ipynb`: Notebook principal con la implementación lógica del modelo, celdas de entrenamiento y gráficas de rendimiento.
 * `Memoria.pdf`: Documentación técnica detallada que incluye la justificación teórica, descripción de los métodos y el análisis de los resultados obtenidos.
@@ -23,7 +23,7 @@ Implementación de un modelo de neurona simple (Perceptrón) aplicado a problema
 
 ---
 
-## Tecnologías Utilizadas 💻
+## Tecnologías utilizadas 💻
 
 * **Python 3**
 * **NumPy:** Para el manejo de álgebra lineal y operaciones matriciales.
